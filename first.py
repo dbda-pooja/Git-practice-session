@@ -1,1 +1,1 @@
-print("Hi! this is my first python program")
+print("Hi! this is my second python program")
